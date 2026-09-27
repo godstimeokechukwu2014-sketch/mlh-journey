@@ -1,0 +1,6 @@
+name = "Godstime"
+age = 23
+school = "Federal University Otueke"
+print("Hello, my name is " + name)
+print("Iam", age, "years old, studying at", school)
+print(" I'm starting my MLH Journey today!")
