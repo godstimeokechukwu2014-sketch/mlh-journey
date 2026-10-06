@@ -8,12 +8,14 @@ Building in public for MLH Fellowiship spring 2027.
 
 **PROJECTS**
 Day 1 - Intro
-python MLH. learned print() and variables.
+python MLH: learned print() and variables.
 
-Day 2 - If/Else logic. Built eligibility checker using if/else statements. Battled indentation errors and won
+Day 2 - If/Else logic: Built eligibility checker using if/else statements. Battled indentation errors and won
 
-Day 3 - Calculator project
+Day 3 - Calculator project:
 a Calculator that does +, -, *, / and checks if sum is big or small.
+
+Day 4 - List: A list in python is used to store multiple items in one Variable.
 
 Tech Stack
 1. pyyhon
