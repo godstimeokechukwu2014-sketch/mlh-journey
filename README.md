@@ -19,7 +19,7 @@ a Calculator that does +, -, *, / and checks if sum is big or small.
 Day 4 - List: A list in python is used to store multiple items in one Variable.
 
 Tech Stack
-1. pyyhon
+1. python
 2. Git and Github
 
 **Goal**
