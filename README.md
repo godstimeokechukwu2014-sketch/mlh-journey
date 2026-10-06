@@ -23,7 +23,7 @@ Tech Stack
 2. Git and Github
 
 **Goal**
-Get into MLH Fellowship 2027 and become a top-tier developer from Bayelsa.
+Get into MLH Fellowship 2027 and become a top-tier developer from Bayelsa State Nigeria.
 
 Follow my journey! More projects coming daily.
 
