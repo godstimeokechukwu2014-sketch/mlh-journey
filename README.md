@@ -7,6 +7,7 @@ python Developer
 Building in public for MLH Fellowiship spring 2027.
 
 **PROJECTS**
+
 Day 1 - Intro
 python MLH: learned print() and variables.
 
